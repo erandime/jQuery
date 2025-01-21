@@ -1,1 +1,1 @@
-# jQuery
+Create simple games using jQuery.
